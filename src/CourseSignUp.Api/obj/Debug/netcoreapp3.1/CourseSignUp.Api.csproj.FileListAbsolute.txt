@@ -7,12 +7,14 @@ C:\Dev\Teste\ChamaApp\src\CourseSignUp.Api\bin\Debug\netcoreapp3.1\CourseSignUp.
 C:\Dev\Teste\ChamaApp\src\CourseSignUp.Api\bin\Debug\netcoreapp3.1\CourseSignUp.Api.runtimeconfig.dev.json
 C:\Dev\Teste\ChamaApp\src\CourseSignUp.Api\bin\Debug\netcoreapp3.1\CourseSignUp.Api.dll
 C:\Dev\Teste\ChamaApp\src\CourseSignUp.Api\bin\Debug\netcoreapp3.1\CourseSignUp.Api.pdb
-C:\Dev\Teste\ChamaApp\src\CourseSignUp.Api\obj\Debug\netcoreapp3.1\CourseSignUp.Api.csprojAssemblyReference.cache
+C:\Dev\Teste\ChamaApp\src\CourseSignUp.Api\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Dev\Teste\ChamaApp\src\CourseSignUp.Api\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\Dev\Teste\ChamaApp\src\CourseSignUp.Api\obj\Debug\netcoreapp3.1\CourseSignUp.Api.AssemblyInfoInputs.cache
 C:\Dev\Teste\ChamaApp\src\CourseSignUp.Api\obj\Debug\netcoreapp3.1\CourseSignUp.Api.AssemblyInfo.cs
 C:\Dev\Teste\ChamaApp\src\CourseSignUp.Api\obj\Debug\netcoreapp3.1\CourseSignUp.Api.csproj.CoreCompileInputs.cache
 C:\Dev\Teste\ChamaApp\src\CourseSignUp.Api\obj\Debug\netcoreapp3.1\CourseSignUp.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Dev\Teste\ChamaApp\src\CourseSignUp.Api\obj\Debug\netcoreapp3.1\CourseSignUp.Api.RazorTargetAssemblyInfo.cache
+C:\Dev\Teste\ChamaApp\src\CourseSignUp.Api\obj\Debug\netcoreapp3.1\CourseSignUp.Api.csproj.CopyComplete
 C:\Dev\Teste\ChamaApp\src\CourseSignUp.Api\obj\Debug\netcoreapp3.1\staticwebassets\CourseSignUp.Api.StaticWebAssets.Manifest.cache
 C:\Dev\Teste\ChamaApp\src\CourseSignUp.Api\obj\Debug\netcoreapp3.1\staticwebassets\CourseSignUp.Api.StaticWebAssets.xml
 C:\Dev\Teste\ChamaApp\src\CourseSignUp.Api\obj\Debug\netcoreapp3.1\CourseSignUp.Api.dll

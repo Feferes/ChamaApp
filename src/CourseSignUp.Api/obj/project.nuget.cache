@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "nooO6xRWuzq01b6J2MoBC9F155H7zDAF4KKhRBn/2b61F/irdJiQ978AGJoATpIPuF7cxtANSBcboz3in3Mp9A==",
+  "dgSpecHash": "DcheUgKcmuAVScJtiSbv15AMiA7jTJGPd47g0fH41l1KeJy0xEORgql3RcXCMhB79H8/2e3/qs+4Q692T+K1Fw==",
   "success": true,
   "projectFilePath": "C:\\Dev\\Teste\\ChamaApp\\src\\CourseSignUp.Api\\CourseSignUp.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\fernando.santos\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\fernando.santos\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\fernando.santos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

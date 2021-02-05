@@ -1,0 +1,38 @@
+{
+	"info": {
+		"_postman_id": "5bd9a348-2d3c-4717-b14b-44d29d20f388",
+		"name": "ChamaApp",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://localhost:44391/student/create",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Name\": \"Fernando\",\r\n    \"Email\": \"santos.garcia.fernando@gmail.com\",\r\n    \"DateOfBirth\": \"1981-11-23T17:16:40\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44391/student/create",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44391",
+					"path": [
+						"student",
+						"create"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
